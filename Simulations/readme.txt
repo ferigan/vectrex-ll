@@ -1,0 +1,1 @@
+The simulation files provide here are designed to be used with https://www.falstad.com/circuit/circuitjs.html
