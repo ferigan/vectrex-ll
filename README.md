@@ -4,4 +4,4 @@ Vectrex Lunar Lander controller
 
 This project contains the designs and documentation for a prototype Vectrex Controller intended to be used for games such as Lunar Lander and Moon Lander
 
-I have continued to develop the prototype into a final product, which can be obtained from me and built to order.
+I have continued to develop the prototype into a final product, which can be built to order by emailing vectrex@retrocontrollers.com and requesting more information.
